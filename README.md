@@ -5,7 +5,7 @@ FederNet, üç temel bileşenin birleşimiyle çalışır:
 
 Ay yüzeyine ait  uydu görüntüleri analiz edilir.
 
-⚡Hızlı ve etkili sonuçlar için YOLO (You Only Look Once) modeli kullanılır.
+Hızlı ve etkili sonuçlar için YOLO (You Only Look Once) modeli kullanılır.
 
 Kraterler otomatik olarak tespit edilir ve işaretlenir.
 
